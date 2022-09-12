@@ -1,0 +1,95 @@
+html  {
+    background-color: darkmagenta;
+}
+il {
+    font-weight: bold; font-size: larger; 
+}
+p {
+    font-size: x-large; font-weight: bolder;
+}
+
+.gray {
+    background-color: lightgray;
+}
+.sq {
+    height: 80px;
+    width: 980px;
+    border: solid;
+    background-color: brown;
+}
+.butto {
+    border-top: 1px solid #96d1f8;
+    background: #65a9d7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+    background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+    background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+    background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+    background: -o-linear-gradient(top, #3e779d, #65a9d7);
+    padding: 5.5px 11px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: white;
+    font-size: 24px;
+    font-family: Georgia, serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+ .butto:hover {
+    border-top-color: #28597a;
+    background: #28597a;
+    color: #ccc;
+    }
+ .butto:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    }
+
+
+
+
+
+
+
+    .button1 {
+        border-top: 1px solid #96d1f8;
+        background: #8e9469;
+        background: -webkit-gradient(linear, left top, left bottom, from(#192a36), to(#8e9469));
+        background: -webkit-linear-gradient(top, #192a36, #8e9469);
+        background: -moz-linear-gradient(top, #192a36, #8e9469);
+        background: -ms-linear-gradient(top, #192a36, #8e9469);
+        background: -o-linear-gradient(top, #192a36, #8e9469);
+        padding: 20px 40px;
+        -webkit-border-radius: 40px;
+        -moz-border-radius: 40px;
+        border-radius: 40px;
+        -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+        -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+        box-shadow: rgba(0,0,0,1) 0 1px 0;
+        text-shadow: rgba(0,0,0,.4) 0 1px 0;
+        color: white;
+        font-size: 24px;
+        font-family: Georgia, serif;
+        text-decoration: none;
+        vertical-align: middle;
+        }
+     .button1:hover {
+        border-top-color: #418e9c;
+        background: #418e9c;
+        color: #ccc;
+        }
+     .button1:active {
+        border-top-color: #1b435e;
+        background: #1b435e;
+        }
+
+
+
+
+
+
+        
